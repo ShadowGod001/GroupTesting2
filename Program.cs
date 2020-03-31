@@ -6,8 +6,15 @@ namespace GroupTesting2
     {
         static void Main(string[] args)
         {
+
             //vale 
             Console.WriteLine("Hello World!");
+          
+
+            Console.WriteLine("Soy GOZ");
+          
+            Console.WriteLine("Agustin");
+
         }
     }
 }
