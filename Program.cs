@@ -7,6 +7,9 @@ namespace GroupTesting2
         static void Main(string[] args)
         {
 
+            Console.WriteLine("Hello World! Soy Fran :P");
+
+
             //vale 
             Console.WriteLine("Hello World!");
           
@@ -14,6 +17,7 @@ namespace GroupTesting2
             Console.WriteLine("Soy GOZ");
           
             Console.WriteLine("Agustin");
+
 
         }
     }
