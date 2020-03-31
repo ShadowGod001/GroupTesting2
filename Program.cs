@@ -6,6 +6,7 @@ namespace GroupTesting2
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Soy GOZ");
             Console.WriteLine("Agustin");
         }
     }
